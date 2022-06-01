@@ -1,0 +1,29 @@
+ #copy_right_footer {
+     position: fixed;
+     bottom: 0px;
+     width: 100%;
+     text-align: center;
+     background-color: #4a565a;
+     color: beige;
+     line-height: 2;
+     font-size: 17.5px ; 
+ }
+
+  body {
+      background-size: cover;
+      background-position: center;
+  }
+
+  canvas {
+      border: 3px ridge beige;
+      margin-top: 20px;
+      margin-left: 450px;
+  }
+
+  h2 {
+      margin: 0;
+  }
+
+  #obj_find {
+      width: 30% ;
+  }
